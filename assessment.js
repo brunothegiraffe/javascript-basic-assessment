@@ -4,7 +4,7 @@
 
 
 // #2 Use the variable iLove to create a new variable called iLoveCode that is assigned the string "I love code"
-var iLove = 'I love';
+var iLoveYou = 'I love you';
 
 // #3  Make an object called bob and give it the following properties
 // bob has a height of 6ft (string)
